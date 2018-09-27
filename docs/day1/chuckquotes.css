@@ -1,0 +1,27 @@
+body {
+  padding: 50px;
+  text-align: center;
+}
+
+i {
+  padding: 10px;
+  color: #ffffff;
+  border: 1px solid #d5433e;
+  background: #FB6964;
+  background: linear-gradient(to bottom, #FB6964 0%, #d5433e 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FB6964', endColorstr='#d5433e', GradientType=0);
+}
+
+#author {
+  display: none;
+}
+
+#text {
+  font-family: 'Amatic SC', cursive;
+  font-size: 42px;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+}
